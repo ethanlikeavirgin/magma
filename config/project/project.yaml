@@ -1,4 +1,4 @@
-dateModified: 1742558253
+dateModified: 1742564194
 email:
   fromEmail: lara@likeavirgin.be
   fromName: Magma
@@ -7,6 +7,11 @@ meta:
   __names__:
     0ed89233-3149-4024-8b54-cf1dfa257ed1: Magma # Magma
     f27a3297-646a-4d42-be78-9128a387ea1c: Magma # Magma
+plugins:
+  vite:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
 system:
   edition: solo
   live: true
